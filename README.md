@@ -9,6 +9,6 @@
 
 ## Blog:
 + **CSDN [https://blog.csdn.net/qq_24133859](https://blog.csdn.net/qq_24133859)**
-+ **Personal [https://www.developzhe.com/](https://www.developzhe.com)**
++ **Personal [https://www.developzhe.com](https://www.developzhe.com)**
 
 
