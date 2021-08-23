@@ -7,7 +7,7 @@
 ## My main projects:
 - [PHP-Sharding-PDO](https://github.com/1107012776/PHP-Sharding-PDO) 🚀 PHP与MySQL分库分表的类库插件，需要依赖PDO，PHP分库分表。
 
-## My main Blog:
+##Blog:
 + **CSDN [https://blog.csdn.net/qq_24133859](https://blog.csdn.net/qq_24133859)**
 + **Personal [https://www.developzhe.com/](https://www.developzhe.com/)**
 
