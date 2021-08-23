@@ -5,7 +5,7 @@
 🎉 Welcome to my GitHub profile!
 
 ## My main projects:
-- [PHP-Sharding-PDO](https://github.com/1107012776/PHP-Sharding-PDO) 🚀 PHP与MySQL分库分表的类库插件，需要依赖PDO，PHP分库分表。
+- [PHP-Sharding-PDO](https://github.com/1107012776/PHP-Sharding-PDO) 🚀 PHP与MySQL分库分表的类库插件，需要依赖PDO，PHP分库分表，支持协程。
 <details>
 <summary>About Open Source </summary>
 
