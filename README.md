@@ -6,7 +6,7 @@
 
 ## My main projects:
 - [PHP-Sharding-PDO](https://github.com/1107012776/PHP-Sharding-PDO) 🚀 PHP、MySQL分库分表中间件，需要依赖PDO，PHP分库分表，支持协程。
-- [spring-php](https://github.com/1107012776/spring-php) SpringPHP是一款基于Swoole的高性能框架。
+- [SpringPHP](https://github.com/1107012776/spring-php) 是一款基于Swoole的高性能框架。
 <details>
 <summary>About Open Source </summary>
 
