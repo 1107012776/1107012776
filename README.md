@@ -5,7 +5,7 @@
 🎉 Welcome to my GitHub profile!
 
 ## My main projects:
-- [PHP-Sharding-PDO](https://github.com/1107012776/PHP-Sharding-PDO) 🚀 PHP、MySQL分库分表中间件，需要依赖PDO，PHP分库分表，支持协程。
+- [PHP-Sharding-PDO](https://github.com/1107012776/PHP-Sharding-PDO) 🚀 PHP, MySQL sharding library and sharding table middleware, need to rely on PDO, support coroutines.
 - [SpringPHP](https://github.com/1107012776/spring-php) SpringPHP is a high-performance framework based on Swoole.
 <details>
 <summary>About Open Source </summary>
