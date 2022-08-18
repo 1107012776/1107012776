@@ -20,10 +20,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1107012776&layout=compact&show_icons=true&theme=flat&hide_title=true)
 
-## Pinned
-<img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=1107012776&repo=PHP-Sharding-PDO" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=1107012776&repo=spring-php" />
 
 ## Page visitor counter
 
