@@ -27,7 +27,7 @@
 </details>
 
 ## Pinned
-<img  src="https://github-readme-stats.vercel.app/api/pin/?username=1107012776&repo=PHP-Sharding-PDO" />
+<img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=1107012776&repo=PHP-Sharding-PDO" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=1107012776&repo=spring-php" />
 
