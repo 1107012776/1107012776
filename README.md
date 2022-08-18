@@ -8,12 +8,6 @@
 - [PHP-Sharding-PDO](https://github.com/1107012776/PHP-Sharding-PDO) 🚀 PHP, MySQL sharding library and sharding table middleware, need to rely on PDO, support coroutines.
 - [SpringPHP](https://github.com/1107012776/spring-php) is a high-performance framework based on Swoole.
 
-## Pinned
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1107012776&repo=PHP-Sharding-PDO)](https://github.com/1107012776/PHP-Sharding-PDO)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1107012776&repo=spring-php)](https://github.com/1107012776/spring-php)
-
 <details>
 
 <summary>About Open Source </summary>
@@ -31,6 +25,12 @@
 ![visitor counter](https://profile-counter.glitch.me/1107012776/count.svg)
 
 </details>
+
+## Pinned
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1107012776&repo=PHP-Sharding-PDO)](https://github.com/1107012776/PHP-Sharding-PDO)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1107012776&repo=spring-php)](https://github.com/1107012776/spring-php)
 
 
 
